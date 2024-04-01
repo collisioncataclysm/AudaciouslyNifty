@@ -1,3 +1,4 @@
 matplotlib>=3.0.0
 requests>=2.20.0
 art>=1.8
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
